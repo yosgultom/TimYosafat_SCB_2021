@@ -26,6 +26,7 @@ html.reveal-full-page {
 	position: relative;
 	line-height: 1;
 	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
 
 	background-color: #fff;
 	color: #000;
@@ -1381,7 +1382,11 @@ $controlsArrowAngleActive: 36deg;
 .reveal.rtl .slides h5,
 .reveal.rtl .slides h6 {
 	direction: rtl;
-	font-family: sans-serif;
+	font-family: "League Gothic", Impact, sans-serif;
+}
+h2
+{
+	font-family: "League Gothic", Impact, sans-serif;
 }
 
 .reveal.rtl pre,
