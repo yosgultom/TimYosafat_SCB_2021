@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-background-color="#c0bbb2">
+					<img data-src="Logo AMALBAIK1.png" width="500" height="240">
+					<p><span style="display: inline-block; color:#3a3a3a; font-family: Arial Black;"   class="fragment fade-up"class="fragment fade-in-then-out">AMALBAIK: Aplikasi Berbasis Mobile sebagai Solusi Mempermudah Kegiatan Donasi Untuk Amal</span></p>
+				</section>
+
+				<section data-background="#395443">
+					<h4><span style="display: inline-block; color:ffffff; font-family: Arial Black;"   class="fragment fade-down"class="fragment fade-in-then-out">Deskripsi Aplikasi</span></h4>
+						<p class="fragment fade-down">
+					  	<small>AMALBAIK adalah Layanan yang dapat menyelesaikan masalah beramal, layanan membantu beramal yang dapat terjangkau ke seluruh lapisan masyarakat untuk memudahkan akses pelayanan beramal dengan lebih efisien dan tepat sasaran, Membuat aplikasi website Memperkenalkan metode baru untuk pelayanan beramal secara cepat dan   praktis sesuai dengan perkembangan kemajuan teknologi modern.</small>
+					  </p>
+
+					   <p class="fragment fade-in-then-out">
+					  	<small>Gagasan AMALBAIK ini direalisasikan dalam bentuk aplikasi berbasis website yang bisa diakses oleh mereka yang ingin meminta bantuan dan juga yang ingin membantu. Dengan aplikasi ini kita bisa lebih menekankan efisiensi dan tepat sasaran dalam beramal, dengan hal itu mereka yang ingin meminta bantuan lebih mudah untuk mengajukannya di dalam aplikasi dikarenakan efisiensi itu, serta untuk mereka yang ingin beramal lebih tepat sasaran yang artinya lebih mengetahui kemana dan siapa yang ingin si client bantu.</small>
+					  </p>
+                </section>
+
+                <section data-background="#395443">
+					<h4><span style="display: inline-block; color:ffffff; font-family: Arial Black;"   class="fragment fade-down"class="fragment fade-in-then-out">Manfaat Aplikasi</span></h4>
+						<p class="fragment fade-down">
+					  	<small>1.	Membuat aplikasi website layanan membantu beramal yang dapat terjangkau ke seluruh lapisan masyarakat untuk memudahkan akses pelayanan beramal dengan lebih efisien dan tepat sasaran.<br><br>2.	Memperkenalkan metode baru untuk pelayanan beramal secara cepat dan   praktis sesuai dengan perkembangan kemajuan teknologi modern.<br><br>3.	Akses seluruh kategori donasi 24 jam penuh.</small>
+					  </p>
+                </section>
+
+				<section data-background="#395443">
+					<h4><span style="display: inline-block; color:ffffff; font-family: Arial Black;"   class="fragment fade-down"class="fragment fade-in-then-out">Keunggulan Aplikasi</span></h4>
+						<p class="fragment fade-down">
+					  	<small>1. Amal baik dapat diakses oleh donatur kapan saja dan dari mana saja.<br><br>2. Setiap donasi yang masuk tercatat oleh sistem sehingga Anda dapat mempertanggungjawabkan jumlah donasi yang terkumpul baik kepada donatur maupun publik luas.<br><br> 3. Penggunaan aplikasi galang dana amalbaik sudah terjamin keamanannya</small>
+					  </p>
+                </section>
+				
+                <section data-background-color="#395443">
+                	<h4><span style="display: inline-block; color:ffffff; font-family: Arial Black;">Design Login dan Signin</span></h4>
+					<p>
+					<small>
+					Sebagai halaman login,pertama user harus melakukan register akun menggunakan sign up,apabila sudah melakukan sign up disini user dapat melakukan login dengan  menginput nama,email dan password.
+					</small></p>
+					<img data-src="Design Log in.png" width="230" height="400">
+					<img data-src="Design Sign in.png" width="230" height="400">
+				</section>
+
+				<section data-background-color="#395443">
+                	<h4><span style="display: inline-block; color:ffffff; font-family: Arial Black;">Design Fitur Pembayaran Donasi</span></h4>
+					<p>
+					<small>
+					Donasi yang dapat disalurkan mulai dari Rp 1.000  AMALBAIK bekerja sama dengan BANK Selain perbankan, AMALBAIK juga bekerjasama dengan Go-pay dan OVO, Shoppepay, DANA.
+					</small></p>
+					<img data-src="Design Jumlah Donasi.png" width="230" height="400">
+					<img data-src="Design Pembayaran.png" width="230" height="400">
+				</section>
+
+				<section data-background-color="#395443">
+                	<h4><span style="display: inline-block; color:ffffff; font-family: Arial Black;">Design Fitur Categoy Donasi</span></h4>
+					<p>
+					<small>
+					Kategori yang dapat difilter oleh pengguna. Beberapa kategori tersebut adalah balita & anak sakit, bantuan medis & kesehatan, bencana alam, kemanusiaan, rumah ibadah, kegiatan social.
+					</small></p>
+					<img data-src="Design Category Donasi.png" width="230" height="400">	
+				</section>
+                	
+                <section data-background-color="#395443">
+                	<h4><span style="display: inline-block; color:ffffff; font-family: Arial Black; font-size: 0.8em;">Design Fitur Daftar Penggalang Donasi</span></h4>
+					<p>
+					<small><span style="font-size: 0.8em;">
+					Penggalang Dana adalah proses pengumpulan Dana dari masyarakat dalam rangka pembangunan di bidang kesejahteraan sosial, mental, agama, kerohanian, kejasmanian dan kebudayaan. Penggalangan dana yang dibuat harus seizin daripada Penerima donasi dan atau wali Penerima donasi yang didapatkan oleh Penggalang dana, hal tersebut perlu dilakukan agar para pihak yang terlibat mendapatkan transparansi informasi.
+					<span></small></p>
+					<img data-src="Design Penggalang Donasi.png" width="190" height="370">	
+				</section>
+
+				<section data-background-color="#395443">
+                	<h4><span style="display: inline-block; color:ffffff; font-family: Arial Black; font-size: 0.8em;">Design Fitur Donasi Barang</span></h>
+					<p>
+					<small><span style="font-size: 0.8em;">
+					Dalam aplikasi AMALBAIK, tidak hanya memberikan uang tetapi bisa berupa pakaian, buku, mainan, alat masak, alas kaki yang layak pakai serta makanan yang masih bagus dan layak konsumsi.
+					<span></small></p>
+					<img data-src="Design Barang.png" width="190" height="370">	
+				</section>  		
+
+				<section data-background-color="#395443">
+                	<h4><span style="display: inline-block; color:ffffff; font-family: Arial Black; font-size: 0.8em;">Terima Kasih</span></h>	
+				</section>  	
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>	
+</html>
